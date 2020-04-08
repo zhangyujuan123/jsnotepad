@@ -1,3 +1,7 @@
+/*
+ * Notepad 主程序
+ * wangding 408542507@qq.com 2018 
+ */
 
 var np = {};                // Notepad 主程序对象
 

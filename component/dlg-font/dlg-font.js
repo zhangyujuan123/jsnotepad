@@ -51,6 +51,7 @@ var $dlgFont = (function() {
 
   function sample() {
     $sample.css({ 'font-family': cfg.family, 'font-size': cfg.size + 'pt' });
+
     if(cfg.style === '斜体') {
       $sample.css({'font-style': 'italic'});
       return;
